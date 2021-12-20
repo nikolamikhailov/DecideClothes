@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DecideClothes</string>
+
+    <string name="menu_title_goods">Товары</string>
+    <string name="menu_title_sales">Акции</string>
+    <string name="menu_title_brands">Бренды</string>
+    <string name="menu_title_kinds">Стили</string>
+
+    <string name="title_goods">Товары</string>
+    <string name="title_sales">Акции</string>
+    <string name="title_brands">Бренды</string>
+    <string name="title_kinds">Стили</string>
+</resources>
